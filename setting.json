@@ -74,12 +74,28 @@
       "data-attribute":[
         {
           "name-attribute":"name",
+          "value-attribute":"google-site-verification"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"Eb8LfxjjMicxvfnUsCdmAYFzZMwO8CXTCYe2vMrOBew"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
+    {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
           "value-attribute":"viewport"
         },
         {
           "name-attribute":"content",
           "value-attribute":"width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=5.0"
         }
+        
       ],
       "data-innerHTML":"",
       "position":"start"
