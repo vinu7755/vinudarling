@@ -2,7 +2,7 @@
   "name-web":"apaitech",
   "author":"apaitech",
   "remove-comment-html":true,
-  "target":"https://fpeedee.com",
+  "target":"https://www.51sec.org",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,14 +20,14 @@
   ],
   "costom-element-remove":[
     {
-      "target":"fpeedee.com",
+      "target":"https://www.51sec.org",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://fpeedee.com",
+          "target":"https://www.51sec.org",
           "replace":"${nameWeb}"
         }
       ]
