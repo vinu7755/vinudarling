@@ -2,7 +2,7 @@
   "name-web":"apaitech",
   "author":"apaitech",
   "remove-comment-html":true,
-  "target":"https://www.shawacademy.com",
+  "target":"https://loveliliya.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"https://www.51sec.org",
+      "target":"https://loveliliya.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
